@@ -11,14 +11,14 @@ Cоздать и активировать виртуальное окружен�
 ```sh
 python -m venv venv
 source venv/Scripts/activate 
-python -m pip install --upgrade pip
 ```
-Установить зависимости из файла requirements.txt:
+Установить зависимости из файла requirements.txt и обновить pip:
 ```sh
+python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-```
+
 Запустить тесты:
 ```sh
 
