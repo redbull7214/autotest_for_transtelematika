@@ -1,4 +1,11 @@
-# autotest_for_transtelematika
+autotest_for_transtelematika
+# Тестирование Яндекс.Маркета с помощью Selenuim и Pytest-bdd
+
+#Технологии:
+- Python 3.8
+- pytest
+- pytest-bdd
+- selenium
 
 ## _Как запустить проект:_
 Клонировать репозиторий и перейти в него в командной строке:
