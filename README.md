@@ -1,4 +1,4 @@
-autotest_for_transtelematika
+
 # Тестирование Яндекс.Маркета с помощью Selenuim и Pytest-bdd
 
 #Технологии:
